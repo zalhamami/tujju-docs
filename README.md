@@ -1,2 +1,1 @@
-# tujju-docs
-Tujju Documentation
+# Tujju Documentation
